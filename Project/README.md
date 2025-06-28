@@ -75,4 +75,4 @@ There are two user points of view: **Customer** and **Admin**.
 
 **Output**
 
-(Output/Screenshot 2025-06-29 040640.png)
+![Alt Text](OutputScreenshot2025-06-29040640.png)
