@@ -73,6 +73,4 @@ There are two user points of view: **Customer** and **Admin**.
   
 ---
 
-**Output**
-
-![Alt Text](OutputScreenshot2025-06-29040640.png)
+The output of the system is in the *Output* folder.
