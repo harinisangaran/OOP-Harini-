@@ -70,3 +70,9 @@ There are two user points of view: **Customer** and **Admin**.
 6. **Association**
    - `Admin` uses `Booking` objects in its methods.
    - The `approveBooking()` and `disapproveBooking()` methods operate on `Booking`, representing an association.
+  
+---
+
+**Output**
+
+(Output/Screenshot 2025-06-29 040640.png)
