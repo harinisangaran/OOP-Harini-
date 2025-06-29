@@ -4,7 +4,7 @@
 Vehicle Rental System
 
 ## Group Members
-- Anis Saffiya (A23CS)
+- Anis Safiyya Binti Janai (A23CS0049)
 - Harini A/P Sangaran (A23CS0081)
 
 ## Section
@@ -74,3 +74,9 @@ There are two user points of view: **Customer** and **Admin**.
 ---
 
 The output of the system is in the *Output* folder.
+
+##UML Diagram
+
+<img src="https://drive.google.com/uc?export=view&id=1992k7la6OC6W5VASKbwwUTppdmbajn9l"
+     alt="My Image"
+     style="width:60%;">
