@@ -4,7 +4,7 @@
 Vehicle Rental System
 
 ## Group Members
-- Anis Saffiya (A23CS)
+- Anis Safiyya Binti Janai (A23CS0049)
 - Harini A/P Sangaran (A23CS0081)
 
 ## Section
